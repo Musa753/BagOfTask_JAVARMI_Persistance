@@ -50,9 +50,7 @@ bash
 javac WorkerRouter.java
 
 5. Liste des Tâches Émises par le Serveur
-
-La figure ci-dessous montre la liste des tâches émises par le serveur.
-6. Résultat du Côté du Router-Worker
+ 
 
 La figure ci-dessous montre le résultat du côté du routeur-worker.
 
